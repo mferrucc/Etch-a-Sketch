@@ -20,7 +20,9 @@
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    width: 960px;
+    gap: 15px;
     margin-bottom: 15px;
     padding: 10px;
 }
